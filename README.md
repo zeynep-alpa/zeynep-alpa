@@ -1,7 +1,10 @@
 <div style="display: flex; align-items: center;">
-  <img src="https://github.com/zeynep-alpa/zeynep.alpa/blob/main/GitHubGIF1.gif" alt="GIF Description" width="100%">  
+  <img src="![GitHubGIF1](https://github.com/zeynep-alpa/zeynep-alpa/assets/133758181/450d049d-f31d-463e-8300-cc55e9903dc4)
+" alt="GIF Description" width="100%">  
 </div>
-<h1>Hi there <img src="https://github.com/zeynep-alpa/zeynep-alpa/assets/133758181/3d2f4a85-cd89-4fb5-8c65-e999ec5d0680" alt="GIF" height="50px"> , my name is Zeynep.</h1>
+<h1>Hi there <img src="![HelloGif](https://github.com/zeynep-alpa/zeynep-alpa/assets/133758181/c7351c5a-0935-4219-8330-9f0fd770da9d)
+" alt="GIF" height="50px"> , my name is Zeynep.</h1>
+
 
 
 <h3 align="center">✦ Computer Engineering Student ✦</h3>
